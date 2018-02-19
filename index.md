@@ -8,6 +8,8 @@ tagline: Connecting you with Akron Tech
 
 [Slack] ( https://akrontech.slack.com )
 
-[Twitter](http://twitter.com/akronTech)
+[Twitter] (http://twitter.com/akronTech)
 
-[Facebook]( https://www.facebook.com/akrontech)
+[Facebook] ( https://www.facebook.com/akrontech)
+
+[Git] ( https://github.com/AkronTech )
